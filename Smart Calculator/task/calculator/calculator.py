@@ -27,4 +27,4 @@ while True:
             # print(sum([n(i, j) for i, j in y]))
             continue
     except:
-        print("Invalid expression")
+        print("Invalid expression")s.

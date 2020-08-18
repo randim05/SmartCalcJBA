@@ -7,19 +7,9 @@ files:
         pass
   learner_created: false
 feedback_link: https://hyperskill.org/learn/step/9554
-status: Failed
+status: Solved
 feedback:
-  message: |
-    Failed test #1 of 3. Wrong answer
-
-    This is a sample test from the problem statement!
-
-    Test input:
-    5 7 4
-    Correct output:
-    1168.44
-
-    Your code output:
-    Your function should accept a varying number of values and the keyword `amount`.
-  time: Thu, 13 Aug 2020 06:31:27 UTC
+  message: <html>Correct solution<br/><br/>Continue on <a href="https://hyperskill.org/learn/step/9554">JetBrains
+    Academy</a></html>
+  time: Thu, 13 Aug 2020 06:59:44 UTC
 record: -1
